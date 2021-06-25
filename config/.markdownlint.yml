@@ -1,4 +1,6 @@
 MD013:
-  code_blocks: false
+  strict: false
 
 MD033: false
+
+MD037: false
