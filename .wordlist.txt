@@ -1,7 +1,12 @@
+congruential
 dev
+ds
 gi
 https
 jekyllrb
 pastebin
 permalink
+playthrough
+retroachievements
+rng
 yu
