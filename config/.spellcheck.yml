@@ -15,6 +15,7 @@ matrix:
       - code
       - pre
   - pyspelling.filters.context:
+      context_visible_first: true
       delimiters:
       - open: '(?s)^(\{% highlight python %\})$'
         close: '(?s)^(\{% endhighlight %\})$'
