@@ -17,7 +17,7 @@ matrix:
   - pyspelling.filters.context:
       delimiters:
       - open: '(?s)^(\{% highlight python %\})$'
-        close: '(?S)^(\{% endhighlight %\})$'
+        close: '(?s)^(\{% endhighlight %\})$'
   sources:
   - '**/*.md'
   default_encoding: utf-8
