@@ -1,0 +1,6 @@
+dev
+https
+jekyllrb
+pastebin
+permalink
+Yu-Gi-Oh

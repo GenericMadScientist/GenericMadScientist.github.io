@@ -4,7 +4,7 @@ title: "Hello World!"
 date: 2021-06-16 19:23:15 +0100
 ---
 I've finally decided to make a blog. The primary motivation is that I want a
-place to dump writeups about interesting things I find in video games, and
+place to dump write-ups about interesting things I find in video games, and
 currently I tend to just keep the information as personal notes on my computer,
 dump it to [my pastebin account][pastebin-account], or share it with one or two
 people. I'd much rather have the information public and easily accessible, so
