@@ -1,6 +1,8 @@
 congruential
 dev
 ds
+endhighlight
+endraw
 GameFAQs
 gi
 https
@@ -13,6 +15,6 @@ playthrough
 retroachievements
 RetroAchievements
 rng
-RNG
+RNG's
 unowned
 yu
