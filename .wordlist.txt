@@ -1,6 +1,7 @@
 dev
+gi
 https
 jekyllrb
 pastebin
 permalink
-Yu-Gi-Oh
+yu
