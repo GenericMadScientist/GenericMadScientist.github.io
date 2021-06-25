@@ -1,7 +1,7 @@
 # Credits to https://www.swild.dev/self-hosting/github-spellcheck-lint-action/
 # for a starting point
 
-name: Spellcheck Action
+name: Spellcheck
 on: push
 jobs:
   build:
@@ -13,3 +13,13 @@ jobs:
         uses: rojopolis/spellcheck-github-actions@0.14.0
         with:
           config_path: config/.spellcheck.yml
+
+name: Markdown Lint
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: nosborn/github-action-markdown-cli@v2.0.0
+        with:
+          files: .
