@@ -18,7 +18,7 @@ blog will help with the latter, but we'll see how it goes. And at any rate, I
 can always migrate down the line if need be.
 
 I don't have any plans on regular posts, I expect to just write something when
-I have something to say. Maybe I'll look into some things in 
+I have something to say. Maybe I'll look into some things in
 [Yu-Gi-Oh! Nightmare Troubadour][nightmare-troubadour] to start this off. We
 shall see.
 
