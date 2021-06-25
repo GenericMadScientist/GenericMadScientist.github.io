@@ -9,14 +9,15 @@ matrix:
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
-      delimiters:
-      - open: '(?s)^(\{% highlight python %\})$'
-        close: '(?S)^(\{% endhighlight %\})$'
   - pyspelling.filters.html:
       comments: false
       ignores:
       - code
       - pre
+  - pyspelling.filters.context:
+      delimiters:
+      - open: '(?s)^(\{% highlight python %\})$'
+        close: '(?S)^(\{% endhighlight %\})$'
   sources:
   - '**/*.md'
   default_encoding: utf-8
