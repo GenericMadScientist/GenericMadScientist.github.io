@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NPC spawns in Yu-Gi-Oh! Nightmare Troubadour"
-date: 2021-07-08 12:17:00 +0100
+date: 2021-07-09 20:39:39 +0100
 ---
 [Last post][previous-post] we looked at the details of how packs work in
 [Yu-Gi-Oh! Nightmare Troubadour][nightmare-troubadour]. In this post we're going
@@ -39,8 +39,8 @@ can appear and when?
 
 Time in Nightmare Troubadour is a value from 0 to 255. The symbol the game uses
 for time changes for each quarter of the day, but the game additionally
-subdivides each quarter into four subquarters. The sixteenth of the day affects
-which opponents can spawn.
+subdivides each quarter into four smaller quarters. The sixteenth of the day
+affects which opponents can spawn.
 
 <figure>
   <img src="{{site.url}}/assets/images/ntr-times-of-day.png"
@@ -62,7 +62,7 @@ Each element has the time, stage, substage, and the city corresponding to the
 data.
 
 The next important thing is the PRNG used. Like with packs, it's an LCG, but
-it's a different LCG. I have included an auxillary method called `randnum`
+it's a different LCG. I have included an auxiliary method called `randnum`
 that gives a procedure the game often uses to generate a random number from
 0 to upper_bound - 1 for some upper bound.
 
@@ -153,10 +153,10 @@ The function that keeps generating a random point until a valid one is found
 is called FUN_overlay_d_15__022630c0 by Ghidra, in case anyone wishes to
 investigate further.
 
-## Loose ends: passerbys and Shadow Games
+## Loose ends: passersby and Shadow Games
 
-I have not looked much into passerbys or duelists who intercept you and force
-you into a Shadow Game, but it probably isn't complicated. For passerbys, it
+I have not looked much into passersby or duelists who intercept you and force
+you into a Shadow Game, but it probably isn't complicated. For passersby, it
 appears the game may add one after assigning a position to all spawned duelists,
 with a spawn rate of 0%, 20%, or 100%. If one is spawned, they are assigned a
 position the same way duelists are.
