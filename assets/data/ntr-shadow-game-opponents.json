@@ -1,0 +1,10450 @@
+[
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 1,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 1,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 1,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 1,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 1,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 1,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 1,
+        "substage": 3,
+        "opponents": [
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 1,
+        "substage": 3,
+        "opponents": [
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 1,
+        "substage": 3,
+        "opponents": [
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 1,
+        "substage": 3,
+        "opponents": [
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 1,
+        "substage": 3,
+        "opponents": [
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 1,
+        "substage": 3,
+        "opponents": [
+            [
+                "Para",
+                90
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 1,
+        "substage": 0,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 1,
+        "substage": 1,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 1,
+        "substage": 2,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 1,
+        "substage": 0,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 1,
+        "substage": 1,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 1,
+        "substage": 2,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 1,
+        "substage": 0,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 1,
+        "substage": 1,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 1,
+        "substage": 2,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 1,
+        "substage": 0,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 1,
+        "substage": 1,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 1,
+        "substage": 2,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 1,
+        "substage": 0,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 1,
+        "substage": 1,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 1,
+        "substage": 2,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 1,
+        "substage": 0,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 1,
+        "substage": 1,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 1,
+        "substage": 2,
+        "opponents": [
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 2,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 2,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 2,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 2,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 2,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 2,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 3,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 3,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 3,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 3,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 3,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 3,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                60
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 4,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 4,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 4,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 4,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 4,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 4,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 4,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 4,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 4,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 4,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 4,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 4,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 4,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 4,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 4,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 4,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 4,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 4,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ],
+            [
+                "Para",
+                70
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                60
+            ],
+            [
+                "Bandit Keith",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 5,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 5,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 5,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 5,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "Pegasus",
+                50
+            ],
+            [
+                "Bandit Keith",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 1,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 2,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 3,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 4,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 5,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 6,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 7,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 8,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 6,
+        "substage": 9,
+        "opponents": [
+            [
+                "PaniK",
+                50
+            ],
+            [
+                "Para",
+                60
+            ],
+            [
+                "Dox",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Bandit Keith",
+                40
+            ],
+            [
+                "Strings",
+                50
+            ],
+            [
+                "Arkana",
+                70
+            ],
+            [
+                "Rare Hunter",
+                90
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 8,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 9,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 8,
+        "substage": 0,
+        "opponents": [
+            [
+                "PaniK",
+                70
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Strings",
+                60
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 9,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 9,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 9,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 9,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 9,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 10,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 11,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 12,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 13,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 14,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 2,
+        "time": 15,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Yami Bakura",
+                80
+            ],
+            [
+                "Arkana",
+                60
+            ],
+            [
+                "Rare Hunter",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 12,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 13,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 14,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 15,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Bandit Keith",
+                60
+            ],
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 10,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 0,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 1,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 2,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 3,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 4,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 5,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 6,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    },
+    {
+        "city": 1,
+        "time": 11,
+        "stage": 10,
+        "substage": 7,
+        "opponents": [
+            [
+                "Lumis",
+                60
+            ],
+            [
+                "Umbra",
+                60
+            ],
+            [
+                "PaniK",
+                60
+            ]
+        ]
+    }
+]
