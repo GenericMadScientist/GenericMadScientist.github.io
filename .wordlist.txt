@@ -1,6 +1,8 @@
 congruential
 dev
 ds
+duelist
+duelists
 endhighlight
 endraw
 GameFAQs
@@ -10,6 +12,7 @@ https
 jekyllrb
 JSON
 Konami
+Konami's
 LCG
 manip
 Marik
@@ -28,6 +31,7 @@ rng
 RNG's
 savestates
 substage
+substage's
 unowned
 Yami
 yu
