@@ -18,7 +18,7 @@ overworld and must be found by the player. This can be seen as an evolution of
 the system introduced in [Duel Monsters 6: Expert 2][duel-monsters-6].
 
 <figure>
-  <img src="{{site.url}}/assets/images/ntr-first-city.png"
+  <img src="{{site.url}}/assets/img/ntr-first-city.png"
     alt="A player searching for opponents in the first city"/>
   <figcaption>Konami's take on Hot and Cold.</figcaption>
 </figure>
@@ -43,7 +43,7 @@ subdivides each quarter into four smaller quarters. The sixteenth of the day
 affects which opponents can spawn.
 
 <figure>
-  <img src="{{site.url}}/assets/images/ntr-times-of-day.png"
+  <img src="{{site.url}}/assets/img/ntr-times-of-day.png"
     alt="A series of images showing how each sixteenth of the day appears"/>
   <figcaption>The earliest time of each sixteenth of the day.</figcaption>
 </figure>
@@ -144,7 +144,7 @@ location, which I believe is how the game makes sure to not spawn opponents in
 the middle of the sea.
 
 <figure>
-  <img src="{{site.url}}/assets/images/ntr-sea.png"
+  <img src="{{site.url}}/assets/img/ntr-sea.png"
     alt="The player trying, unsuccessfully, to find an opponent in the sea"/>
   <figcaption>Poseidon does not care to duel you.</figcaption>
 </figure>

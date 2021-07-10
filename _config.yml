@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A Scottish nerd pokes at ancient video games until either they or he cries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
+
+avatar: assets/img/avatar.png
+
 lang: en-GB
 timezone: Europe/London
 
@@ -47,3 +50,9 @@ theme_mode: dark
 feed:
   path:
     assets/feed.xml
+
+disqus:
+  comments: false
+  shortname: ''
+
+paginate: 10
