@@ -2,7 +2,6 @@
 title: "NPC spawns in Yu-Gi-Oh! Nightmare Troubadour"
 date: 2021-07-09 20:39:39 +0100
 categories: [Yu-Gi-Oh! Nightmare Troubadour]
-tags: [rng]
 ---
 [Last post][previous-post] we looked at the details of how packs work in
 [Yu-Gi-Oh! Nightmare Troubadour][nightmare-troubadour]. In this post we're going
