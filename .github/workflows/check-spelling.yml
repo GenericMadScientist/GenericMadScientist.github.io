@@ -2,7 +2,11 @@
 # for a starting point
 
 name: Spellcheck
-on: push
+on:
+  push:
+    branches:
+      - master
+
 jobs:
   build:
     name: Spellcheck
