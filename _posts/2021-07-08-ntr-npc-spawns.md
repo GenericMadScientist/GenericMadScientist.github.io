@@ -17,11 +17,8 @@ of opponents to duel at any time they wish. Instead, the opponents exist on an
 overworld and must be found by the player. This can be seen as an evolution of
 the system introduced in [Duel Monsters 6: Expert 2][duel-monsters-6].
 
-<figure>
-  <img src="{{site.url}}/assets/img/ntr-first-city.png"
-    alt="A player searching for opponents in the first city"/>
-  <figcaption>Konami's take on Hot and Cold.</figcaption>
-</figure>
+![A player searching for opponents](/assets/img/ntr-first-city.png)
+_Konami's take on Hot and Cold_
 
 The player moves a cursor around the city they're in (past a certain point the
 player unlocks a second city). The cursor starts as blue, but when it gets close
@@ -42,11 +39,8 @@ for time changes for each quarter of the day, but the game additionally
 subdivides each quarter into four smaller quarters. The sixteenth of the day
 affects which opponents can spawn.
 
-<figure>
-  <img src="{{site.url}}/assets/img/ntr-times-of-day.png"
-    alt="A series of images showing how each sixteenth of the day appears"/>
-  <figcaption>The earliest time of each sixteenth of the day.</figcaption>
-</figure>
+![Images showing each sixteenth of the day](/assets/img/ntr-times-of-day.png)
+_The earliest time of each sixteenth of the day_
 
 Progress through the story is represented by two values, a stage and a substage.
 The stage goes from zero to ten; the substage's range of values depends on the
@@ -139,11 +133,8 @@ building Serenity is taken to. There is an additional check on the generated
 location, which I believe is how the game makes sure to not spawn opponents in
 the middle of the sea.
 
-<figure>
-  <img src="{{site.url}}/assets/img/ntr-sea.png"
-    alt="The player trying, unsuccessfully, to find an opponent in the sea"/>
-  <figcaption>Poseidon does not care to duel you.</figcaption>
-</figure>
+![A player searching for opponents in the sea](/assets/img/ntr-sea.png)
+_Poseidon does not care to duel you_
 
 The function that keeps generating a random point until a valid one is found
 is called FUN_overlay_d_15__022630c0 by Ghidra, in case anyone wishes to
