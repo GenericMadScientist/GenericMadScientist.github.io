@@ -66,8 +66,7 @@ it's a different LCG. I have included an auxiliary method called `randnum`
 that gives a procedure the game often uses to generate a random number from
 0 to upper_bound - 1 for some upper bound.
 
-{% highlight python %}
-{% raw %}
+```python
 class Prng:
     def __init__(self, seed):
         self.__seed = seed
@@ -78,8 +77,7 @@ class Prng:
 
     def randnum(self, upper_bound):
         return (self.rand() * upper_bound) // 32768
-{% endraw %}
-{% endhighlight %}
+```
 
 It appears the game initialises the seed with the number of frames elapsed since
 power-on when the player clicks on Continue. I haven't thoroughly tested it but
@@ -101,8 +99,7 @@ of the possible opponents comes with a 'spawn rate', and roughly speaking a
 higher spawn rate means a higher chance of the opponent being selected. Some
 Python giving how the game goes about the selection is given below.
 
-{% highlight python %}
-{% raw %}
+```python
 def select_available_opponents(prng, opponent_list, base_count):
     count = prng.randnum(base_count - 2) + 3
     if count >= len(opponent_list):
@@ -122,8 +119,7 @@ def select_available_opponents(prng, opponent_list, base_count):
         opponents.append(character)
         opponent_list = opponent_list[:slot] + opponent_list[slot+1:]
     return opponents
-{% endraw %}
-{% endhighlight %}
+```
 
 ## Where shall we play?
 

@@ -18,8 +18,8 @@ matrix:
       context_visible_first: true
       delimiters:
       # Ignore Python code blocks
-      - open: '(?s)^(\{% highlight python %\})$'
-        close: '(?s)^(\{% endhighlight %\})$'
+      - open: '(?s)^(```python)$'
+        close: '(?s)^(```)$'
       # Ignore links to other posts
       - open: '\{%'
         close: '%\}'
