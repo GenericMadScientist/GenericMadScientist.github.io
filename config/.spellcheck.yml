@@ -24,5 +24,7 @@ matrix:
       - open: '\{%'
         close: '%\}'
   sources:
-  - '**/*.md'
+  - '_data/*.md'
+  - '_posts/*.md'
+  - '*.md'
   default_encoding: utf-8
