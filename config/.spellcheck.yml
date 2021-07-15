@@ -21,11 +21,11 @@ matrix:
       - open: '(?s)^(```python)$'
         close: '(?s)^(```)$'
       # Ignore links to other posts
-      - open: '\{% post_url'
+      - open: '\{%'
         close: '%\}$'
       # Ignore links to files
-      - open: '\{% link'
-        close: '%\}$'
+      - open: '\[
+        close: '\]'
   sources:
   - '_data/*.md'
   - '_posts/*.md'
