@@ -80,11 +80,11 @@ should be very viable. Whether it'd be worthwhile is another matter.
 
 With the PRNG set up, the game looks at a base count for the number of opponents
 to spawn. This only depends on the city, stage (not substage), and time, and is
-included in the XML as baseCount. The game generates a random number from 0 to
-baseCount - 3, then adds 3, so it's a random number from 3 to baseCount. This is
-with the exception of the case where base_count is 2, in which case it is
-instead always 3. This random number is meant to be how many opponents the game
-spawns.
+included in the XML as `baseCount`. The game generates a random number from 0 to
+`baseCount` - 3, then adds 3, so it's a random number from 3 to `baseCount`.
+This is with the exception of the case where `baseCount` is 2, in which case it
+is instead always 3. This random number is meant to be how many opponents the
+game spawns.
 
 If the number of opponents to spawn is at least as great as the possible number
 of opponents, the game spawns all of them. Otherwise it randomly selects the
