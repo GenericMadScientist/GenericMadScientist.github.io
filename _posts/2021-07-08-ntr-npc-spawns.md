@@ -51,7 +51,7 @@ be to experiment with savestates while looking at the relevant values. The stage
 is a two-byte value at 0x2097460, while the substage is the byte at 0x2097464.
 
 Using these values, the game builds the list of opponents that can spawn subject
-to those conditions. I've put the data into [this JSON file][pal-opponents].
+to those conditions. I've put the data into [this XML file][pal-opponents].
 Each element has the time, stage, substage, and the city corresponding to the
 data.
 
@@ -80,9 +80,9 @@ should be very viable. Whether it'd be worthwhile is another matter.
 
 With the PRNG set up, the game looks at a base count for the number of opponents
 to spawn. This only depends on the city, stage (not substage), and time, and is
-included in the JSON as base_count. The game generates a random number from 0 to
-base_count - 3, then adds 3, so it's a random number from 3 to base_count. This
-is with the exception of the case where base_count is 2, in which case it is
+included in the XML as baseCount. The game generates a random number from 0 to
+baseCount - 3, then adds 3, so it's a random number from 3 to baseCount. This is
+with the exception of the case where base_count is 2, in which case it is
 instead always 3. This random number is meant to be how many opponents the game
 spawns.
 
@@ -95,6 +95,7 @@ Python giving how the game goes about the selection is given below.
 
 ```python
 def select_available_opponents(prng, opponent_list, base_count):
+    # opponent_list is an array of (opponent_name, spawn_rate)
     count = prng.randnum(base_count - 2) + 3
     if count >= len(opponent_list):
         return [opp for opp, _ in opponent_list]
@@ -123,7 +124,7 @@ all the details of this process, but I have enough to be worth documenting.
 
 The game goes through the spawned opponents in order of their ID, rather than
 the order returned from the above procedure. This order can be inferred from the
-JSON, where the available opponents start ordered by their ID. For each one, the
+XML, where the available opponents start ordered by their ID. For each one, the
 game generates a position for them. It does this by continually generating
 random points until it finds one far enough away from all previously placed
 opponents, the player, and it seems any visible buildings on the map. This
@@ -152,7 +153,7 @@ In the function that takes care of selecting which opponents to spawn, there is
 a branch for the case where the game wants to spawn an opponent to challenge you
 to a Shadow Game. It goes the same as `select_available_opponents` usually does,
 except `count` will always be one and not consult `base_count`.
-[Here][shadow-game-opponents] is a similar JSON for such opponents.
+[Here][shadow-game-opponents] is a similar XML for such opponents.
 
 ## Pegasus
 
@@ -176,7 +177,7 @@ force them into a Shadow Game.
 
 [duel-monsters-6]: https://yugipedia.com/wiki/Yu-Gi-Oh!_Duel_Monsters_6:_Expert_2
 [nightmare-troubadour]: https://yugipedia.com/wiki/Yu-Gi-Oh!_Nightmare_Troubadour
-[ntsc-opponents]: {{site.url}}/assets/data/ntr-opponents-ntsc.json
-[pal-opponents]: {{site.url}}/assets/data/ntr-opponents-pal.json
+[ntsc-opponents]: {% link assets/data/ntr-opponents-ntsc.xml %}
+[pal-opponents]: {% link assets/data/ntr-opponents-pal.xml %}
 [previous-post]: {% post_url 2021-06-24-ntr-packs %}
-[shadow-game-opponents]: {{site.url}}/assets/data/ntr-shadow-game-opponents.json
+[shadow-game-opponents]: {% link assets/data/ntr-shadow-game-opponents.xml %}
