@@ -167,8 +167,8 @@ no relevant differences. However, there are differences in the data giving which
 opponents can spawn and therein lies the answer. I have placed the NTSC-U data
 [here][ntsc-opponents] for convenience. The only difference is Pegasus is not
 listed as spawning in stage ten at all, and in any city/time/substage
-combination in which he spawns in stage ten, he is removed and base_count is one
-lower. As a curious consequence, note that this still means that he is not
+combination in which he spawns in stage ten, he is removed and `baseCount` is
+one lower. As a curious consequence, note that this still means that he is not
 present for stage nine, which is probably from after the player first defeats
 Odion up until Yami Marik is defeated.
 
