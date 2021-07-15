@@ -24,7 +24,7 @@ matrix:
       - open: '\{%'
         close: '%\}$'
       # Ignore links to files
-      - open: '\[
+      - open: '\['
         close: '\]'
   sources:
   - '_data/*.md'
