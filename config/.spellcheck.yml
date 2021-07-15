@@ -26,4 +26,5 @@ matrix:
   sources:
   - '_data/*.md'
   - '_posts/*.md'
+  - '*.xml'
   default_encoding: utf-8
