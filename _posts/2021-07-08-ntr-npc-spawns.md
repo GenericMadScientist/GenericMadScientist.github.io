@@ -160,7 +160,9 @@ except `count` will always be one and not consult `base_count`.
 It is well-known amongst players of Nightmare Troubadour that there is a bug
 preventing Pegasus from spawning in the NTSC versions once Odion has been
 defeated for the first time. This means that if not already obtained, the player
-is locked out of Pegasus' Deck Recipe and Imperial Order.
+is locked out of Pegasus' Deck Recipe. Furthermore, since Imperial Order is a
+postgame trade, it is impossible to obtain a copy legitimately with just an
+NTSC-U copy of the game.
 
 I had a quick glance at the corresponding code for the NTSC-U version and found
 no relevant differences. However, there are differences in the data giving which
