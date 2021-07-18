@@ -22,6 +22,7 @@ overworld
 pastebin
 permalink
 playthrough
+postgame
 PRNG
 retroachievements
 RetroAchievements
