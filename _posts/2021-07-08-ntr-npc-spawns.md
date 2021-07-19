@@ -3,12 +3,12 @@ title: "NPC spawns in Yu-Gi-Oh! Nightmare Troubadour"
 date: 2021-07-09 20:39:39 +0100
 categories: [Yu-Gi-Oh! Nightmare Troubadour]
 ---
-[Last post][previous-post] we looked at the details of how packs work in
-[Yu-Gi-Oh! Nightmare Troubadour][nightmare-troubadour]. In this post we're going
-to look at how the game decides which NPCs to spawn, and a little about how the
-game places them on the map. Like the last post, this work was done on the PAL
-version of the game. I did have a quick peek at the corresponding data for the
-NTSC-U version though, because of the issue with Pegasus.
+In the [previous post][previous-post] we looked at the details of how packs work
+in [Yu-Gi-Oh! Nightmare Troubadour][nightmare-troubadour]. In this post we're
+going to look at how the game decides which NPCs to spawn, and a little about
+how the game places them on the map. Like the last post, this work was done on
+the PAL version of the game. I did have a quick peek at the corresponding data
+for the NTSC-U version though, because of the issue with Pegasus.
 
 ## Overview
 
