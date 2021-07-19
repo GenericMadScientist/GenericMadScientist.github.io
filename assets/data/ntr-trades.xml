@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<data>
+	<duelist>
+		<name>Yami Yugi</name>
+		<randomRequests>
+			<card>Dark Magician</card>
+			<card>Gaia the Dragon Champion</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Black Luster Soldier</card>
+			<card>Multiply</card>
+			<card>Big Shield Gardna</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Cathedral of Nobles</request>
+				<offer>Monster Reborn</offer>
+			</trade>
+			<trade>
+				<request>Slifer the Sky Dragon</request>
+				<offer>Obelisk the Tormentor</offer>
+			</trade>
+			<trade>
+				<request>Obelisk the Tormentor</request>
+				<offer>Slifer the Sky Dragon</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Yugi Muto</name>
+		<randomRequests>
+			<card>Kuriboh</card>
+			<card>Celtic Guardian</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Chimera the Flying Mythical Beast</card>
+			<card>Beta The Magnet Warrior</card>
+			<card>Exchange</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Magician of Black Chaos</request>
+				<offer>Silent Magician LV4</offer>
+			</trade>
+			<trade>
+				<request>Dark Sage</request>
+				<offer>Silent Magician LV8</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Joey Wheeler</name>
+		<randomRequests>
+			<card>Red-Eyes B. Dragon</card>
+			<card>Dice Re-Roll</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Time Wizard</card>
+			<card>Skull Dice</card>
+			<card>Rocket Warrior</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Heart of the Underdog</request>
+				<offer>Painful Choice</offer>
+			</trade>
+			<trade>
+				<request>Kunai with Chain</request>
+				<offer>Level Up!</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Seto Kaiba</name>
+		<randomRequests>
+			<card>Blue-Eyes Ultimate Dragon</card>
+			<card>Gyakutenno Megami</card>
+		</randomRequests>
+		<randomOffers>
+			<card>XYZ-Dragon Cannon</card>
+			<card>La Jinn the Mystical Genie of the Lamp</card>
+			<card>Crush Card</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Obelisk the Tormentor</request>
+				<offer>Raigeki</offer>
+			</trade>
+			<trade>
+				<request>Raigeki</request>
+				<offer>Obelisk the Tormentor</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Mokuba</name>
+		<randomRequests>
+			<card>Blue-Eyes White Dragon</card>
+			<card>Mooyan Curry</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Krokodilus</card>
+			<card>Taunt</card>
+			<card>Penguin Soldier</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Bakura</name>
+		<randomRequests>
+			<card>Ominous Fortunetelling</card>
+			<card>Eternal Rest</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Headless Knight</card>
+			<card>Tragedy</card>
+			<card>Overpowering Eye</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>United We Stand</request>
+				<offer>Change of Heart</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Tea Gardner</name>
+		<randomRequests>
+			<card>Mystical Moon</card>
+			<card>Dancing Fairy</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Mokey Mokey</card>
+			<card>Pikeru's Circle of Enchantment</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Sage's Stone</request>
+				<offer>Magician's Circle</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Mai Valentine</name>
+		<randomRequests>
+			<card>Cyber Shield</card>
+			<card>Malevolent Nuzzler</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Shadow of Eyes</card>
+			<card>Harpie Lady Sisters</card>
+			<card>Mirror Wall</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Butterfly Dagger - Elma</request>
+				<offer>Harpie's Feather Duster</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Serenity</name>
+		<randomRequests>
+			<card>Graceful Dice</card>
+			<card>Dunames Dark Witch</card>
+		</randomRequests>
+		<randomOffers>
+			<card>The Unhappy Maiden</card>
+			<card>St. Joan</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>St. Joan</request>
+				<offer>Magician's Unite</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Rebecca</name>
+		<randomRequests>
+			<card>Big Koala</card>
+			<card>Des Koala</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Marie the Fallen One</card>
+			<card>Fire Princess</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Solomon</name>
+		<randomRequests>
+			<card>Nutrient Z</card>
+			<card>Goblin's Secret Remedy</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Blue-Eyes White Dragon (alt)</card>
+			<card>Poison of the Old Man</card>
+			<card>Ordeal of a Traveler</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Bonz</name>
+		<randomRequests>
+			<card>Castle of Dark Illusions</card>
+			<card>Fatal Abacus</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Skull Invitation</card>
+			<card>Pumpking the King of Ghosts</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Mako</name>
+		<randomRequests>
+			<card>The Legendary Fisherman</card>
+			<card>Kairyu-Shin</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Umi</card>
+			<card>Fortress Whale</card>
+			<card>Amphibian Beast</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Espa Roba</name>
+		<randomRequests>
+			<card>Mind Haxorz</card>
+			<card>Ancient Telescope</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Senri Eye</card>
+			<card>Amplifier</card>
+			<card>The Fiend Megacyber</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Jinzo</request>
+				<offer>Sixth Sense</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Rex Raptor</name>
+		<randomRequests>
+			<card>Ultra Evolution Pill</card>
+			<card>Bracchio-raidus</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Wasteland</card>
+			<card>Mad Sword Beast</card>
+			<card>Gilasaurus</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Weevil</name>
+		<randomRequests>
+			<card>Insect Imitation</card>
+			<card>Jade Insect Whistle</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Gokibore</card>
+			<card>Eradicating Aerosol</card>
+			<card>Insect Queen</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Dox</name>
+		<randomRequests>
+			<card>Double Attack</card>
+			<card>Xing Zhen Hu</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Jirai Gumo</card>
+			<card>Labyrinth Wall</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Para</name>
+		<randomRequests>
+			<card>Combination Attack</card>
+			<card>Mystik Wok</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Labyrinth Tank</card>
+			<card>Kazejin</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Pegasus</name>
+		<randomRequests>
+			<card>Bright Castle</card>
+			<card>Oscillo Hero #2</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Bickuribox</card>
+			<card>Toon Cannon Soldier</card>
+			<card>Toon World</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Royal Decree</request>
+				<offer>Imperial Order</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Strings</name>
+		<randomRequests>
+			<card>Mind Wipe</card>
+			<card>Bait Doll</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Ameba</card>
+			<card>Jam Breeding Machine</card>
+			<card>Revival Jam</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Metal Reflect Slime</request>
+				<offer>Change of Heart</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Odion</name>
+		<randomRequests>
+			<card>Solemn Judgment</card>
+			<card>Divine Wrath</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Dust Tornado</card>
+			<card>Judgment of Anubis</card>
+			<card>Embodiment of Apophis</card>
+		</randomOffers>
+		<fixedTrades/>
+	</duelist>
+	<duelist>
+		<name>Ishizu Ishtar</name>
+		<randomRequests>
+			<card>The Eye of Truth</card>
+			<card>Soul Release</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Zolga</card>
+			<card>Cestus of Dagla</card>
+			<card>Reversal of Graves</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Agido</request>
+				<offer>The Graveyard in the Fourth Dimension</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+	<duelist>
+		<name>Marik Ishtar</name>
+		<randomRequests>
+			<card>Infinite Cards</card>
+			<card>Card of Safe Return</card>
+		</randomRequests>
+		<randomOffers>
+			<card>Twin-Headed Behemoth</card>
+			<card>Nightmare Wheel</card>
+			<card>Lava Golem</card>
+		</randomOffers>
+		<fixedTrades>
+			<trade>
+				<request>Brain Control</request>
+				<offer>Makyura the Destructor</offer>
+			</trade>
+			<trade>
+				<request>The Winged Dragon of Ra</request>
+				<offer>Slifer the Sky Dragon</offer>
+			</trade>
+			<trade>
+				<request>Slifer the Sky Dragon</request>
+				<offer>The Winged Dragon of Ra</offer>
+			</trade>
+		</fixedTrades>
+	</duelist>
+</data>

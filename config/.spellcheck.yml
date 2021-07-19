@@ -20,6 +20,9 @@ matrix:
       # Ignore Python code blocks
       - open: '(?s)^(```python)$'
         close: '(?s)^(```)$'
+      # Ignore C code blocks
+      - open: '(?s)^(```c)$'
+        close: '(?s)^(```)$'
       # Ignore links to other posts
       - open: '\{%'
         close: '%\}$'
