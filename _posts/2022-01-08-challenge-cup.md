@@ -460,6 +460,10 @@ It might seem strange that higher division opponents tend to have lower stat
 experience, but bear in mind that the player will have less stat experience in
 higher divisions due to its dependence on the base stat total.
 
+Friendship is a random value from 0 to 255 inclusive. While Return and
+Frustration are not possible to get in Challenge Cup, this can still come up due
+to Metronome.
+
 Lastly Pikachu has a 1/256 chance of being a [Talking Pikachu][talking-pikachu],
 which makes more anime-like sounds and is a result of using a Pikachu from
 Pokémon Yellow. Fun fact, a shiny Talking Pikachu is impossible in Challenge Cup
