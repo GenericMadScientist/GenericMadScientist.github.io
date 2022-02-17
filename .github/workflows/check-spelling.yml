@@ -5,7 +5,7 @@ name: Spellcheck
 on:
   push:
     branches:
-      - master
+      - main
       - check-spelling
 
 jobs:
