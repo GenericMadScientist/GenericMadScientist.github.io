@@ -40,7 +40,7 @@ discarded. Once activated, SP will remain active as the bar depletes, all the
 way until the bar is fully depleted at which point SP ends.
 
 SP is acquired from so-called SP phrases. A phrase is a sequence of star-shaped
-notes. Provided the full sequence is combo'd, upon hitting the last note of it
+notes. Provided the full sequence is comboed, upon hitting the last note of it
 one quarter of the bar will be filled. Any sustain notes in the phrase can be
 whammied for additional SP. Such sustains are called SP sustains. Whammying is
 binary: as far as the game concerns, you are either whammying or you are not.
@@ -342,9 +342,9 @@ bottleneck might potentially be addressed by saving as SVG, PNG files are just
 far more convenient and it starts to feel silly at that level.
 
 One major problem is exhibited by NFL on Fox Theme from
-[Carpal Tunnel Hero 3][cth3]. It's a mostly slow haha funny meme chart that ends
-with an insanely high BPM SP sustain and CHOpt's major optimisations don't help
-here. To a human, the optimal path is easy to see. You can remove the big
+[Carpal Tunnel Hero 3][cth3]. It's a mostly slow ha ha funny meme chart that
+ends with an insanely high BPM SP sustain and CHOpt's major optimisations don't
+help here. To a human, the optimal path is easy to see. You can remove the big
 sustain and the path you get would overlap the start of it anyway, so the
 optimal path is to do that then just keep whammying until the song ends. Coming
 up with a general way to spot this without some horrible hard-coding is less

@@ -26,6 +26,8 @@ matrix:
       # Ignore LaTeX blocks
       - open: '\$\$'
         close: '\$\$'
+      - open: '(?s)^(\\\[)$'
+        close: '(?s)^(\\\])$'
       # Ignore links to other posts
       - open: '\{%'
         close: '%\}$'

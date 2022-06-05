@@ -92,6 +92,7 @@ Flareon
 Forretress
 Furret
 GameFAQs
+gameplay
 Gastly
 Gengar
 Geodude
@@ -228,6 +229,7 @@ Piloswine
 Pineco
 Pinsir
 playthrough
+PNG
 PoisonPowder
 Poké
 Pokémon
@@ -243,6 +245,7 @@ postgame
 pre
 Primeape
 PRNG
+profiler
 PRZCureBerry
 PSNCureBerry
 Psybeam
@@ -302,12 +305,16 @@ Stantler
 Starmie
 Staryu
 Steelix
+subpaths
+subproblem
 subproblems
+subsequence
 substage
 substage's
 Sudowoodo
 Sunflora
 Sunkern
+SVG
 Swinub
 Tangela
 Tauros
@@ -315,6 +322,8 @@ Teddiursa
 Tenkaichi
 Tentacool
 Tentacruel
+th
+ths
 ThunderPunch
 ThunderShock
 Togepi
@@ -346,6 +355,7 @@ Weedle
 Weepinbell
 Weezing
 Werster's
+whammied
 whammying
 Wigglytuff
 Wobbuffet
