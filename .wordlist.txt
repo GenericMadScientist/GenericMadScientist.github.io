@@ -153,6 +153,7 @@ LCG
 LCGs
 Ledian
 Ledyba
+libpng
 Lickitung
 Lugia
 Lumis
@@ -211,6 +212,7 @@ OHKO
 Omanyte
 Omastar
 Onix
+overstrumming
 overworld
 PaniK
 Parasect
@@ -318,6 +320,7 @@ ThunderShock
 Togepi
 Togetic
 Totodile
+Traveler
 Tri
 Twineedle
 TwistedSpoon

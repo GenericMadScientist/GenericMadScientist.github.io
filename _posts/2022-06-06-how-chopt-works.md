@@ -338,8 +338,8 @@ For typical songs, CHOpt now finds the optimal path so quickly that the majority
 of the time is spent in libpng saving the image. Making the process of finding
 the optimal path 50% faster would barely matter, and besides, it's fast enough
 that for most charts users barely have to wait at all. While the image saving
-bottleneck might potentially be addressed by saving as say svg, png files are
-just far more convenient and it starts to feel silly at that level.
+bottleneck might potentially be addressed by saving as SVG, PNG files are just
+far more convenient and it starts to feel silly at that level.
 
 One major problem is exhibited by NFL on Fox Theme from
 [Carpal Tunnel Hero 3][cth3]. It's a mostly slow haha funny meme chart that ends
@@ -371,9 +371,17 @@ _This happens twice, by the way_
 That aside, it would be nice to add support for other games and engines. CHOpt
 has support for Rock Band 3 guitar, and Clone Hero drums before it got changed
 again. I'm especially interested in the older Guitar Hero games and Warriors of
-Rock (including powerups). While there are many differences between these
+Rock (including power-ups). While there are many differences between these
 engines, I am confident the core algorithm with these optimisations is robust
 enough to accommodate them.
+
+Something else I'd like to do at some point is allow CHOpt to find paths that
+involve missing or overstrumming, when that's optimal. This is incredibly rare,
+but I am aware of one situation in Clone Hero where this is the case with a
+chart not made specifically to exhibit this behaviour. This would require a
+slight change to the algorithm, where the key for the dictionary would have to
+also include the combo. This isn't as bad as it sounds, because the combo can be
+capped once the multiplier reaches 4x.
 
 [^1]:
     On guitar, with no modifiers on. There is a wrinkle here: you can strum
@@ -408,11 +416,11 @@ enough to accommodate them.
 [^6]:
     If the BPM is insanely high, the position need not tell us the number of
     remaining phrases. For instance, with a BPM of 13714 we get that four 4/4
-    measures take up just under 70ms. In general very high BPMs like this can
-    give rise to lots of thorny problems due to breaking reasonable assumptions
-    about the order of the times events can happen. I have not focused on them
-    too much since they are so artificial, so if someone wanted to find mistakes
-    in CHOpt this would be an excellent area to focus on.
+    measures take up just under 70ms. In general a very high BPM can give rise
+    to lots of thorny problems due to breaking reasonable assumptions about the
+    order of the times events can happen. I have not focused on them too much
+    since they are so artificial, so if someone wanted to find mistakes in CHOpt
+    this would be an excellent area to focus on.
 
 [chopt-repo]: https://github.com/GenericMadScientist/CHOpt
 [circuit-breaker]: https://customsongscentral.com/circuit-breaker/

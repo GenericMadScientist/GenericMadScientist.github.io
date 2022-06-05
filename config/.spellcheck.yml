@@ -23,6 +23,9 @@ matrix:
       # Ignore C code blocks
       - open: '(?s)^(```c)$'
         close: '(?s)^(```)$'
+      # Ignore LaTeX blocks
+      - open: '$$'
+        close: '$$'
       # Ignore links to other posts
       - open: '\{%'
         close: '%\}$'
