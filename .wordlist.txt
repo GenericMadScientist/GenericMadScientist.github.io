@@ -41,6 +41,7 @@ Clefairy
 Cleffa
 Cloyster
 Color
+comboed
 congruential
 Corsola
 Crabhammer
