@@ -33,6 +33,7 @@ Charmander
 Charmeleon
 Chikorita
 Chinchou
+CHOpt
 Clefable
 Clefairy
 Cleffa
@@ -133,6 +134,7 @@ Kadabra
 Kaiba
 Kakuna
 Kangaskhan
+katex
 Kinesis
 Kingdra
 Kingler
