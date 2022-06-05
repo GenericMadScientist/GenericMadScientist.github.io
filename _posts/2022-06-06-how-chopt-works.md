@@ -220,12 +220,12 @@ the best way to use the last phrase: do nothing. Then go back and work out the
 best way to use the last two phrases. Then the last three, and so on, back and
 back until we've got to the start.
 
-However, CHOpt goes with the recursion and memoisation approach for two main
-reasons. The first is that not all subproblems end up coming up. In our example,
-calculating the optimal way to use the last four phrases would be a waste of
-time since we can never come up with this situation. This point becomes stronger
-once we consider the effect of SP sustains, which I will discuss in a moment.
-The other reason is because it would complicate the second significant
+However, CHOpt goes with the recursion and [memoisation][memomization] approach
+for two main reasons. The first is that not all subproblems end up coming up. In
+our example, calculating the optimal way to use the last four phrases would be a
+waste of time since we can never come up with this situation. This point becomes
+stronger once we consider the effect of SP sustains, which I will discuss in a
+moment. The other reason is because it would complicate the second significant
 optimisation, which I will get to in a while. But first, SP sustains.
 
 ## Why it's not so simple
@@ -255,7 +255,7 @@ No, instead we must work out how to accommodate this properly. Think back to
 saving the subpaths. A natural way to view the structure used for this is a
 dictionary. The key is the number of remaining phrases, the value is the optimal
 way to utilise them.[^4] The problem is with our key, and that way lies the
-solution. We refine the key by making it a tuple of both tne number of remaining
+solution. We refine the key by making it a tuple of both the number of remaining
 phrases, and the number of remaining quarter notes left in the song. More
 simply, we can store this information as a position, taking the position the act
 ended and then moving it forward to 70ms before the next phrase if we are not
@@ -299,7 +299,7 @@ two phrases (and we are likely to need to consider all these subproblems),
 giving us the sum
 
 \\[
-    ((k - 2) + (k - 1) + ... + 1)N/(k + 1)
+    ((k - 2) + (k - 1) + \cdots + 1)N/(k + 1)
 \\]
 
 This comes out to $$O(kN)$$. For typical charts the number of SP phrases is
@@ -419,3 +419,4 @@ enough to accommodate them.
 [clone-hero]: https://clonehero.net/
 [cth3]: https://customsongscentral.com/carpal-tunnel-hero-3/
 [dynamic-programming]: https://en.wikipedia.org/wiki/Dynamic_programming
+[memoisation]: https://en.wikipedia.org/wiki/Memoization

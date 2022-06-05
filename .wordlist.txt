@@ -1,4 +1,5 @@
 Abra
+activations
 Aeroblast
 Aerodactyl
 Aipom
@@ -34,6 +35,7 @@ Charmeleon
 Chikorita
 Chinchou
 CHOpt
+CHOpt's
 Clefable
 Clefairy
 Cleffa
@@ -82,6 +84,7 @@ Exeggcute
 Exeggutor
 ExtremeSpeed
 Farfetch'd
+FC
 Fearow
 Feraligatr
 Flaaffy
@@ -176,6 +179,7 @@ matchup's
 matchups
 Megahorn
 Meganium
+memoisation
 Meowth
 Metapod
 Miltank
@@ -296,6 +300,7 @@ Stantler
 Starmie
 Staryu
 Steelix
+subproblems
 substage
 substage's
 Sudowoodo
@@ -338,6 +343,7 @@ Weedle
 Weepinbell
 Weezing
 Werster's
+whammying
 Wigglytuff
 Wobbuffet
 Wooper
