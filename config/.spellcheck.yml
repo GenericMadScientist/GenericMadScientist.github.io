@@ -24,8 +24,8 @@ matrix:
       - open: '(?s)^(```c)$'
         close: '(?s)^(```)$'
       # Ignore LaTeX blocks
-      - open: '$$'
-        close: '$$'
+      - open: '\$\$'
+        close: '\$\$'
       # Ignore links to other posts
       - open: '\{%'
         close: '%\}$'
