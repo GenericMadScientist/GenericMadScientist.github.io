@@ -134,7 +134,7 @@ yellow in m28. This gives 4800, so a better path still. We cannot go from the
 yellow in m22 to the blue in m28, so now we move the beginning up a note.
 
 Our next act would therefore be from the blue in m22 to the red in m28. Now we
-could dutifully calculate this, but you might have noticed we don't need to.
+could diligently calculate this, but you might have noticed we don't need to.
 See, we already did m22 yellow to m28 red, which is going to be strictly better
 since we're starting on an earlier note and ending on the same note. Similarly
 we can rule out going from the m22 blue to the m28 yellow, and go straight to
@@ -179,9 +179,9 @@ our algorithm.
 Once we've added an activation to the path, we count how many SP phrases are
 left in the song. If we've not already ended up in this situation, we diligently
 work out the optimal way to use that number of SP phrases. We then, crucially,
-store this information in some data structure of choice. If we have been in
-this situation before, though, then we know the answer and have it saved
-already. So we just retrieve the answer and append it to the end of the path.
+store this information in some data structure of choice. If we have been in this
+situation before, though, then we know the answer and have it saved already. So
+we just retrieve the answer and append it to the end of the path.
 
 This is a classic example of [dynamic programming][dynamic-programming] since we
 are using the solution to subproblems in order to solve our overall problem. The
@@ -212,8 +212,8 @@ path is the 8800 points one mentioned already and shown above.
 One feature of this technique not apparent with this example comes into play
 once we have more than two activations. For we don't just use this optimisation
 to handle the last activation. We can use it for the rest of the path, and even
-when working out the rest of the path for the first time, we end up
-accumulating lots of information to speed up even that process.
+when working out the rest of the path for the first time, we end up accumulating
+lots of information to speed up even that process.
 
 Another way you could make use of this insight is to work backwards. Start with
 the best way to use the last phrase: do nothing. Then go back and work out the
@@ -246,10 +246,10 @@ activation end at least 70ms before the next phrase starts, so we have the full
 amount of early whammy available. But this retreat gives up too much:
 activations ending mid-phrase are very common in optimal paths, and the vast
 majority of songs have the potential for them. And so long as the potential is
-there, we have to contend with it, even if in the end it may not turn out to
-be part of the optimal path. One could tweak this so our rule is that the act
-ends at least 70ms before the first SP sustain in the phrase, but this would be
-of minor assistance.
+there, we have to contend with it, even if in the end it may not turn out to be
+part of the optimal path. One could tweak this so our rule is that the act ends
+at least 70ms before the first SP sustain in the phrase, but this would be of
+minor assistance.
 
 No, instead we must work out how to accommodate this properly. Think back to
 saving the subpaths. A natural way to view the structure used for this is a
