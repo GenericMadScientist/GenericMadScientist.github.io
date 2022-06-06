@@ -1,6 +1,6 @@
 ---
 title: "How CHOpt works"
-date: 2022-06-05 20:34:00 +0100
+date: 2022-06-06 18:10:00 +0100
 katex: yes
 categories: [Clone Hero]
 ---
