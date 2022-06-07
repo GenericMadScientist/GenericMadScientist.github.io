@@ -139,7 +139,6 @@ Kadabra
 Kaiba
 Kakuna
 Kangaskhan
-katex
 Kinesis
 Kingdra
 Kingler
@@ -180,6 +179,7 @@ Marowak
 matchup
 matchup's
 matchups
+math
 Megahorn
 Meganium
 memoisation
