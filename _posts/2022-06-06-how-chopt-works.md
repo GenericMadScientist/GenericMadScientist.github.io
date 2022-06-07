@@ -1,7 +1,7 @@
 ---
 title: "How CHOpt works"
 date: 2022-06-06 19:26:00 +0100
-katex: yes
+math: yes
 categories: [Clone Hero]
 ---
 When I made this blog I envisioned myself talking about how other people's

@@ -14,11 +14,15 @@ github_username: GenericMadScientist
 github:
   username: GenericMadScientist
 
+twitter:
+  username: GMS_CH
+
 social:
   name: GenericMadScientist
   email: rayw1710@gmail.com
   links:
     - https://github.com/GenericMadScientist
+    - https://twitter.com/GMS_CH
 
 theme: jekyll-theme-chirpy
 plugins:
@@ -28,9 +32,8 @@ feed:
   path:
     assets/feed.xml
 
-disqus:
-  comments: false
-  shortname: ''
+comments:
+  active: false
 
 toc: true
 
