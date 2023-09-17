@@ -368,6 +368,19 @@ tied, these lists are combined. The game then picks either this list or the list
 of available bad support moves at random (or goes with the non-empty one if one
 is empty) and picks a random move from it.
 
+There is a subtle bug lurking here. The arrays containing the various types of
+moves are adjacent to one another, and are prefixed with their lengths. The
+arrays are large enough for the initial population of moves each Pokémon can
+learn, but they are not necessarily large enough to also fit in moves added due
+to combos. The game will then write past the end of the array, and in the
+process overwrite the next array's length. This means the game could, for
+instance, pick Rain Dance as a bad support move due to the Thunder + Rain Dance
+combo, or pick a move past the array's end. If the value in memory there is 0,
+no move is chosen so a three move Smeargle is possible.
+
+![A Smeargle with three moves in Challenge Cup](/assets/img/ps2-smeargle.png)
+_Example from Werster, the Thunder + Rain Dance combo corrupted the next array_
+
 ## Held items
 
 With the moves chosen, the next step is the held item. The game will do the
