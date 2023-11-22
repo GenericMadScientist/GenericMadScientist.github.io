@@ -1,0 +1,4259 @@
+<?xml version="1.0" ?>
+<data>
+	<pack>
+		<name>Miracle of Nature</name>
+		<cards>
+			<card>
+				<name>Hitotsu-Me Giant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Wicked Worm Beast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skull Servant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Beaver Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rock Ogre Grotto #1</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Zombie Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Judge Man</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Dragon Piper</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Oscillo Hero #2</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Big Insect</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Basic Insect</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hercules Beetle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Killer Needle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gokibore</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Larvae Moth</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Great Moth</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Mammoth Graveyard</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Great White</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Perfectly Ultimate Great Moth</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Cocoon of Evolution</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Megazowler</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reaper of the Cards</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Crass Clown</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragon Zombie</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dream Clown</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Big Eye</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Trap Master</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Petit Moth</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sword of Dark Destruction</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Silver Bow and Arrow</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Machine Conversion Factory</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Raise Body Heat</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Power of Kaishin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Forest</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wasteland</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mooyan Curry</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swordstalker</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Bickuribox</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pendulum Machine</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Crimson Sunbird</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hoshiningen</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Man-Eater Bug</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Bracchio-raidus</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Star Boy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skelengel</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Little Chimera</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Bladefly</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reverse Trap</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Shield &amp; Sword</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Blue Medicine</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pot of Greed</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Just Desserts</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Shadows in the Labyrinth</name>
+		<cards>
+			<card>
+				<name>Ryu-Kishin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Feral Imp</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sword Arm of Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swamp Battleguard</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Battle Steer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Horn Imp</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Battle Ox</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Griffore</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Torike</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kuriboh</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Wolf</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tiger Axe</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Silver Fang</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Garoozis</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Chimera</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Crawling Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Clown Zombie</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pumpking the King of Ghosts</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Goddess with the Third Eye</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mysterious Puppeteer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Legendary Sword</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Energy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Laser Cannon Armor</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sogen</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Umi</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ookazi</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swords of Revealing Light</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Spellbinding Circle</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Shadow Ghoul</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Labyrinth Tank</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sanga of the Thunder</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Kazejin</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Suijin</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Gate Guardian</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Dungeon Worm</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ryu-Kishin Powered</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rude Kaiser</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Bistro Butcher</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Milus Radiant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Lava Battleguard</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hiro's Shadow Scout</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Eatgaboon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Negate Attack</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Trap Hole</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Raimei</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>De-Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Burning Spear</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gust Fan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Cheerful Coffin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Man-Eating Treasure Chest</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rush Recklessly</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Gadget Soldier</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Mechanical Trap Power</name>
+		<cards>
+			<card>
+				<name>Mushroom Man</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Two-Headed King Rex</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Krokodilus</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Grappler</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Crawling Dragon #2</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Red-Eyes B. Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>King of Yamimakai</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gyakutenno Megami</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Zanki</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Battle Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Little Swordsman of Aile</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Artist</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Insect Armor with Laser Cannon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Elf's Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Beast Fangs</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragon Capture Jar</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mountain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Yami</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Red Medicine</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Soul of the Pure</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tremendous Fire</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Monster Tamer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Parrot Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Launcher Spider</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Zoa</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Metalzoa</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Machine King</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jinzo #7</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thunder Dragon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Ameba</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hane-Hane</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dark Elf</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Twin-Headed Thunder Dragon</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Witch's Apprentice</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Whiptail Crow</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Metalmorph</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>House of Adhesive Tape</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fortress Whale's Oath</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Firewing Pegasus</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Fortress Whale</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Slot Machine</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Steel Ogre Grotto #2</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Red-Eyes Black Metal Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Time Machine</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>7 Completed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Graceful Charity</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Polymerization</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Two-Pronged Attack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reinforcements</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Castle Walls</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Neo the Magic Swordsman</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sword of Dragon's Soul</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Flight to a New World</name>
+		<cards>
+			<card>
+				<name>Mystical Elf</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blackland Fire Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Koumori Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Saggi the Dark Clown</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Snake Hair</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rogue Doll</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Armored Lizard</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Giant Flea</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpie Lady</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpie Lady Sisters</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Kojikocy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Axe Raider</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Uraby</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Castle of Dark Illusions</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Armored Zombie</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mask of Darkness</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Beautiful Headhuntress</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Princess of Tsurugi</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Versago the Destroyer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Electro-Whip</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cyber Shield</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Elegant Egotist</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Stop Defense</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Invigoration</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Goblin's Secret Remedy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dian Keto the Cure Master</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sparks</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jirai Gumo</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Alligator</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpie's Pet Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Armed Ninja</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragon Seeker</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Muka Muka</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Flame Cerebrus</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystical Sheep #1</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kunai with Chain</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Eternal Draught</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Meteor Dragon</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Lord of D.</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>The Flute of Summoning Dragon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Fissure</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Inexperienced Spy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ancient Telescope</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Royal Decree</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Restructer Revolution</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sword of Deep-Seated</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Germ Infection</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wall of Illusion</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Baron of the Fiend Sword</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Share the Pain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Snake Fang</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rigras Leever</name>
+				<rarity>3</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Broken Seal</name>
+		<cards>
+			<card>
+				<name>Winged Dragon,Guardian of the Fortress #1</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tyhone</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Right Leg of the Forbidden One</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Left Leg of the Forbidden One</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Right Arm of the Forbidden One</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Left Arm of the Forbidden One</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Exodia the Forbidden One</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Gaia the Dragon Champion</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Gaia The Fierce Knight</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Curse of Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Celtic Guardian</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Illusionist Faceless Mage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Giant Soldier of Stone</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Metal Guardian</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>White Magical Hat</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Prevent Rat</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dimensional Warrior</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Book of Secret Arts</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hinotama</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Final Flame</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Rabbit</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magician of Faith</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Maha Vailo</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Warrior Elimination</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Acid Rain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Eradicating Aerosol</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Bright Castle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Three-Headed Geedo</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Lightforce Sword</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chain Destruction</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mesmeric Control</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Graceful Dice</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skull Dice</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tribute to the Doomed</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Soul Release</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magical Thorn</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Block Attack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Paralyzing Potion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sorcerer of the Doomed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Waboku</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Ring of Magnetism</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Stim-Pack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fairy's Hand Mirror</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Buster Blader</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Seal of the Ancients</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Molten Behemoth</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Timeater</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Portrait's Secret</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Headless Knight</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Bowganian</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Crimson Ninja</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mokey Mokey</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Inherited Will</name>
+		<cards>
+			<card>
+				<name>Aqua Madoor</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Masked Sorcerer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Steel Shell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Vile Germs</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Horn of Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragon Treasure</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystical Moon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Malevolent Nuzzler</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Violet Crystal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Follow Wind</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Millennium Shield</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Labyrinth Wall</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wall Shadow</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>La Jinn the Mystical Genie of the Lamp</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mechanicalchaser</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Cyber-Stein</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Goddess of Whim</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cannon Soldier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Statue of Easter Island</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Penguin Soldier</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Magical Labyrinth</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Eternal Rest</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Crush Card</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Breath of Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Acid Trap Hole</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Sengenjin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Meteor B. Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Dark Magic Ritual</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magician of Black Chaos</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Red Archery Girl</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ryu-Ran</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Invitation to a Dark Sleep</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Insect Queen</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Horn of Heaven</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Last Day of Witch</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Exile of the Wicked</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fusion Sage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Unhappy Maiden</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Last Will</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Mirror Force</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>The Reliable Guardian</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Giant Germ</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fairy King Truesdale</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thunder Nyan Nyan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Woodland Sprite</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Arsenal Bug</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Servant of Catabolism</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Shining Abyss</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Grand Tiki Elder</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Melchid the Four-Face Beast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dancing Fairy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Collapse</name>
+				<rarity>1</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Infinite Illusion</name>
+		<cards>
+			<card>
+				<name>Baby Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Time Wizard</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Thousand Dragon</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Penguin Knight</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Black Pendant</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Horn of the Unicorn</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark-Piercing Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Black Luster Soldier</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Gemini Elf</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Black Luster Ritual</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thousand-Eyes Idol</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gazelle the King of Mythical Beasts</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Berfomet</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Chimera the Flying Mythical Beast</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Alligator's Sword</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dunames Dark Witch</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Copycat</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Remove Trap</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ultimate Offering</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Robbin' Goblin</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Gravekeeper's Servant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Curse of Fiend</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Upstart Goblin</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Toll</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Final Destiny</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Darkness Approaches</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Forceful Sentry</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Chain Energy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Attack and Receive</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Shallow Grave</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Inspection</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gift of The Mystical Elf</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Windstorm of Etaqua</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Alligator's Sword Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Aqua Chorus</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Anti-Spell Fragrance</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Luminous Soldier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Serpentine Princess</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Humanoid Slime</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Worm Drake</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Humanoid Worm Drake</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Masked Beast</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Curse of the Masked Beast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Infinite Dismissal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cold Wave</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mad Sword Beast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rain of Mercy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gilasaurus</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fusion Gate</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Friendship</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Unity</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dangerous Machine TYPE-6</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Cursed Darkness</name>
+		<cards>
+			<card>
+				<name>Fiend Kraken</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jellyfish</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kairyu-Shin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystic Horseman</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rabid Horseman</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Giant Red Seasnake</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Widespread Ruin</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Bad Reaction to Simochi</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Relinquished</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Jigen Bakudan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thousand-Eyes Restrict</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Panther Warrior</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Gorgon's Eye</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Black Illusion Ritual</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magic-Arm Shield</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Solemn Judgment</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Seven Tools of the Bandit</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Chorus of Sanctuary</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Nimble Momonga</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Michizure</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gust</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Driving Snow</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Armored Glass</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>World Suppression</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystic Probe</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Metal Detector</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Appropriate</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Forced Requisition</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Minor Goblin Official</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gamble</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Major Riot</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Prohibition</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>The Eye of Truth</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Call of the Haunted</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Solomon's Lawbook</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Enchanted Javelin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Command Knight</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Illusory Gentleman</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kryuel</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Maiden of the Aqua</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Electromagnetic Bagworm</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Legendary Fisherman</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Tornado Wall</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>De-Fusion</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Solemn Wishes</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ground Collapse</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Gross Ghost of Fled Dreams</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Earl of Demise</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Obnoxious Celtic Guard</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Silent Fiend</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>A Legendary Ocean</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Granadora</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Legendary History</name>
+		<cards>
+			<card>
+				<name>Axe of Despair</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sinister Serpent</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Needle Worm</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Morphing Jar</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Salamandra</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Megamorph</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Shadow Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Manga Ryu-Ran</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Mermaid</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Summoned Skull</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Alpha The Magnet Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Beta The Magnet Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pinch Hopper</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blue-Eyes Toon Dragon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Drill Bug</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cyber-Tech Alligator</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Gamma The Magnet Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon World</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mind Control</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Card Destruction</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Delinquent Duo</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Tailor of the Fickle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Giant Trunade</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Banisher of the Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Molten Destruction</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rising Air Current</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Messenger of Peace</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Numinous Healer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>DNA Surgery</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Regulation of Tribe</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Backup Soldier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ceasefire</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Time Seal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dust Tornado</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Earthshaker</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Valkyrion the Magna Warrior</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Riryoku</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mucus Yolk</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Archfiend of Gilfer</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Soul Exchange</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chosen One</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fairy Meteor Crush</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Shadow of Eyes</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gradius</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Goblin Attack Force</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Type Zero Magic Crusher</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jar of Greed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ancient Lamp</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Collected Power</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cyclone Laser</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gradius' Option</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swarm of Locusts</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Magician's Soul</name>
+		<cards>
+			<card>
+				<name>Summoned Skull</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dark Magician</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>B. Skull Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blast Sphere</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Barrel Dragon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>The Fiend Megacyber</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Big Shield Gardna</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dark Magician Girl</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Parasite Paracide</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Multiply</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tragedy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ectoplasmer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Magic Curtain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gravedigger Ghoul</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magic Jammer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Heavy Storm</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Confiscation</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Cyber Jar</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Luminous Spark</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystic Plasma Zone</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Light of Intervention</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Respect Play</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skull Invitation</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magical Hats</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Premature Burial</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Morphing Jar #2</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Graverobber</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mirror Wall</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Robotic Knight</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Moisture Creature</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gearfried the Iron Knight</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Nuvia the Wicked</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mask of Weakness</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mask of Restrict</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Limiter Removal</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Insect Imitation</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dimensionhole</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Monster Recovery</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Magician</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Thousand Knives</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystic Box</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Exchange</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Magician's Tome of Black Magic</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Makiu</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skull Lair</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Bait Doll</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reinforcement of the Army</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Card of Sanctity</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell Canceller</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tribute Doll</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Double Coston</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Magic Attack</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Visitor from Beyond</name>
+		<cards>
+			<card>
+				<name>Sangan</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Stone Statue of the Aztecs</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cyber Raider</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skull-Mark Ladybug</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Insect Barrier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystical Space Typhoon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Gaia Power</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Umiiruka</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Vorse Raider</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Sebek's Blessing</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wolf Axwielder</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Twin-Headed Behemoth</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Kinetic Soldier</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Revival Jam</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Amphibian Beast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rocket Warrior</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Return of the Doomed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Lightning Blade</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jam Breeding Machine</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Infinite Cards</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jam Defender</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Card of Safe Return</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Burning Land</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Necrofear</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Destiny Board</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Dark Spirit of the Silent</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Foolish Burial</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Spiritualism</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Emperor's Holiday</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spirit Message &quot;I&quot;</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spirit Message &quot;N&quot;</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spirit Message &quot;A&quot;</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spirit Message &quot;L&quot;</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ekibyo Drakmord</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Viser Des</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fatal Abacus</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spear Dragon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Cestus of Dagla</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Heart of Clear Water</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Smoke Grenade of the Thief</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Designator</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Newdoria</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hidden Soldier</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Gil Garth</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Monster Relief</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Curse of Aging</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Aitsu</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Koitsu</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Excavation of Mage Stones</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Strike Ninja</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>D. D. Designator</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>7</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Beautiful Challenger</name>
+		<cards>
+			<card>
+				<name>Catapult Turtle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Little-Winguard</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Snatch Steal</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Airknight Parshath</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Jowls of Dark Demise</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Slate Warrior</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Fairy Box</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Shift</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magic Drain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gravity Bind</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Amazon Archer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fire Princess</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Forgiving Maiden</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>St. Joan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Marie the Fallen One</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Sage</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Cyber Harpie Lady</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swift Gaia the Fierce Knight</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Jowgen the Spiritualist</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Riryoku Field</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Destruction Punch</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blind Destruction</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragonic Attack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rope of Life</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Enchanted Arrow</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Bark of Dark Ruler</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Life Absorbing Machine</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Exiled Force</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Zolga</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Agido</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Yata-Garasu</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Fusion Sword Murasame Blade</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spiritual Energy Settle Machine</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Helpoemer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cost Down</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Des Koala</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Big Bang Shot</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mass Driver</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dimension Magic</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Tsukuyomi</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Heart of the Underdog</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magician's Valkyrie</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Enraged Battle Ox</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Getsu Fuhma</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Abyss Soldier</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>The Unhappy Girl</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpie Lady 1</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpie Lady 2</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpie Lady 3</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Harpies' Hunting Ground</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Triangle Ecstasy Spark</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Nitro Unit</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Wonderous Sorcery</name>
+		<cards>
+			<card>
+				<name>Goblin Fan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gear Golem the Moving Fortress</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reflect Bounder</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>The Last Warrior from Another Planet</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Scapegoat</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Giant Rat</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>UFO Turtle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Shining Angel</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mother Grizzly</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Flying Kamakiri #1</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystic Tomato</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Nobleman of Crossout</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Nobleman of Extermination</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mask of Dispel</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mask of the Accursed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mask of Brutality</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Torrential Tribute</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Nightmare's Steelcage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Scroll of Bewitchment</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Dark Door</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Judgment of Anubis</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Embodiment of Apophis</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Zombyra the Dark</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kycoo the Ghost Destroyer</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Double Snare</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Marauding Captain</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Emergency Provisions</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Second Coin Toss</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gilford the Lightning</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Lava Golem</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Reversal Quiz</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Demotion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Poison of the Old Man</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skilled Dark Magician</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Royal Magical Library</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jar Robber</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pigeonholing Books of Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Continuous Destruction Punch</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Despair from the Dark</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fairy of the Spring</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Non-Spellcasting Area</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Staunch Defender</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Arsenal Robber</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Skill Drain</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Really Eternal Rest</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Archfiend's Roar</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dice Re-Roll</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Recycle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mystik Wok</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Goblin Thief</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Moai Interceptor Cannons</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Tricky Toons</name>
+		<cards>
+			<card>
+				<name>Hannibal Necromancer</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Jinzo</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>King Tiger Wanghu</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Birdface</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Multiplication of Ants</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magic Cylinder</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Offerings to the Doomed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Meteor of Destruction</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Lightning Vortex</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Royal Command</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Graverobber's Retribution</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Deal of Phantom</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Miracle Dig</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Vengeful Bog Spirit</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>De-Spell Germ Weapon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blast Held by a Tribute</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Fengsheng Mirror</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blast with Chain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Bottomless Trap Hole</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ominous Fortunetelling</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Nutrient Z</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Drop Off</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fiend Comedian</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Vampire Lord</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Sasuke Samurai</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swarm of Scarabs</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Dark Magician Girl</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Exarion Universe</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Defense</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Table of Contents</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Masked Sorcerer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Gemini Elf</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Cannon Soldier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Toon Goblin Attack Force</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Jeroid</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Different Dimension Capsule</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Disturbance Strategy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kishido Spirit</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pineapple Blast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fiend's Sanctuary</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Gather Your Mind</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Senri Eye</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hidden Book of Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Metal Reflect Slime</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Precious Cards from Beyond</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rod of the Mind's Eye</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Soul Taker</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Sasuke Samurai #2</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Final Countdown</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fuhma Shuriken</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reload</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Night Assailant</name>
+				<rarity>3</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Dragon's Nest</name>
+		<cards>
+			<card>
+				<name>Blue-Eyes White Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Blue-Eyes Ultimate Dragon</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Witch of the Black Forest</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Satellite Cannon</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Injection Fairy Lily</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Yellow Luster Shield</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Creature Swap</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>The A. Forces</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Warrior Returning Alive</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ready for Intercepting</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>A Feint Plan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Dragon's Bead</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>A Wingbeat of Giant Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragon's Gunfire</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Stamping Destruction</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Super Rejuvenation</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dragon's Rage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Burst Breath</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>X-Head Cannon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spirit Reaper</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Buster Rancher</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Snake Syndrome</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Banner of Courage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Royal Tribute</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Raigeki Break</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>D. Tribe</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Y-Dragon Head</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>XY-Dragon Cannon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Z-Metal Tank</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>XYZ-Dragon Cannon</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Rope of Spirit</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Frontline Base</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Combination Attack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Core</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Raregold Armor</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wave-Motion Cannon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Meteorain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Secret Barrel</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Formation Union</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>XZ-Tank Cannon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>YZ-Tank Dragon</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Final Attack Orders</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell Absorption</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>D. D. Borderline</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thunder Crash</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dimension Distortion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Stray Lambs</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Jade Insect Whistle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Opti-Camouflage Armor</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Burst Stream of Destruction</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Mispolymerization</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Royal Relics</name>
+		<cards>
+			<card>
+				<name>Patrician of Darkness</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cathedral of Nobles</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Mystical Beast Serket</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Reversal of Graves</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Guardian Sphinx</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Pyramid Turtle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Scorpion Burglars</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Don Zaloog</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Book of Life</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Book of Taiyou</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Book of Moon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Call of the Mummy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pyramid Energy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tutan Mask</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Curse of Royal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Needle Ceiling</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Coffin</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Needle Wall</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Trap Dustshoot</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reckless Greed</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Machine Duplication</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gravekeeper's Assailant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Necrovalley</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hieroglyph Lithograph</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thunder of Ruler</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Luster Dragon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cliff the Trap Remover</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dark Scorpion - Chick the Yellow</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Judgement of Pharaoh</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Scorpion - Gorg the Strong</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dark Scorpion - Meanae the Thorn</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Skull Archfiend of Lightning</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Archfiend's Oath</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mustering of the Dark Scorpions</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pandemonium</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Altar for Tribute</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Frozen Soul</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Scorpion Combination</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell Vanishing</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sakuretsu Armor</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Inferno</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Manju of the Ten Thousand Hands</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Monster Gate</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Earthquake</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Earthbound Spirit's Invitation</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Protector of the Sanctuary</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Order to Charge</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell Economics</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sasuke Samurai #4</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mokey Mokey King</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mokey Mokey Smackdown</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Monster Reincarnation</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Owner's Seal</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Chosen Warrior</name>
+		<cards>
+			<card>
+				<name>Dark Hole</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Amplifier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mage Power</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Nightmare Wheel</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Byser Shock</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Array of Revealing Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell Reproduction</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fiber Jar</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Convulsion of Nature</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Secret of the Bandit</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>After the Struggle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Disappear</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Timidity</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ordeal of a Traveler</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Calamity of the Wicked</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Master of Dragon Soldier</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Enemy Controller</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Card Shuffle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Reasoning</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Room of Nightmare</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Terraforming</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Non Aggression Area</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Interdimensional Matter Transporter</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell Shield Type-8</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Adhesion Trap Hole</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Paladin</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Diffusion Wave-Motion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Breaker the Magical Warrior</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>D. D. Warrior Lady</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Sage's Stone</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Big Koala</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Des Kangaroo</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sasuke Samurai #3</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Stumbling</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spatial Collapse</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dark Mirror Force</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dimension Fusion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Destruction Ring</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Marshmallon</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Shield Crash</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Corpse of Yata-Garasu</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Marshmallon glasses</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Special Hurricane</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Level Limit - Area B</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Curse of Anubis</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Master of Oz</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Inferno Fire Blast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Flint</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Swords of Concealing Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spiral Spear Strike</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Union Attack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Overpowering Eye</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Devised Tactics</name>
+		<cards>
+			<card>
+				<name>United We Stand</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Mirage of Nightmare</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Statue of the Wicked</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Metamorphosis</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Autonomous Action Unit</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Pitch-Black Power Stone</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Emblem of Dragon Destroyer</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mega Ton Magical Cannon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Exhausting Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Miracle Restoring</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Disarmament</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Anti-Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Spell Absorbing Life</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Butterfly Dagger - Elma</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Shooting Star Bow - Ceal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gravity Axe - Grarl</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wicked-Breaking Flamberge - Baou</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rod of Silence - Kay'est</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Twin Swords of Flashing Light - Tryce</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Token Thanksgiving</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ojama Trio</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ojama Green</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ray of Hope</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ojama Yellow</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ojama Black</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Black Luster Soldier - Envoy of the Beginning</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Ojama Delta Hurricane!!</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Blasting the Ruins</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cursed Seal of the Forbidden Spell</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Tower of Babel</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chain Disappearance</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Zero Gravity</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Energy Drain</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Stealth Bird</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fiend's Hand Mirror</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>A Hero Emerges</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Self-Destruct Button</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Curse of Darkness</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Begone, Knave!</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Robbin' Zombie</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Trap Jammer</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>D. D. Assailant</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Draining Shield</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Des Counterblow</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Soul Resurrection</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Ojama King</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Elemental Burst</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Forced Ceasefire</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Gift of the Martyr</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Double Attack</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Shifting Shadows</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pikeru's Second Sight</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>Roar of Demise</name>
+		<cards>
+			<card>
+				<name>Last Turn</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>A Cat of Ill Omen</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Magical Scientist</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Tribe-Infecting Virus</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Shinato, King of a Higher Plane</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Shinato's Ark</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Contract with the Abyss</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chiron the Mage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chaos End</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chaos Greed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Primal Seed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chaos Emperor Dragon - Envoy of the End</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Dark Magician of Chaos</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Manticore of Darkness</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Gryphon's Feather Duster</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Smashing Ground</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Dedication through Light and Darkness</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Salvage</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ultra Evolution Pill</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Earth Chant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Compulsory Evacuation Device</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>DNA Transplant</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Sanctuary in the Sky</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Micro Ray</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Light of Judgment</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Wall of Revealing Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Solar Ray</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ninjitsu Art of Transformation</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Beckoning Light</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Armor Break</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Sword of the Soul-Eater</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Soul Reversal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Enchanting Fitting Room</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Law of the Normal</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Delta Attacker</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Thousand Energy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Triangle Power</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Human-Wave Tactics</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Desert Sunlight</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Labyrinth of Nightmare</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Order to Smash</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Return from the Different Dimension</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Inferno Tempest</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Dark Factory of Mass Production</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hammer Shot</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Mind Wipe</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Abyssal Designator</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Taunt</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Good Goblin Housekeeping</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Beast Soul Swap</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Assault on GHQ</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Deck Devastation Virus</name>
+				<rarity>1</rarity>
+			</card>
+		</cards>
+	</pack>
+	<pack>
+		<name>The Forever Ones</name>
+		<cards>
+			<card>
+				<name>Brain Control</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Ring of Destruction</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Exodia Necross</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>Contract with Exodia</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Berserk Gorilla</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Wild Nature's Release</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>White Magician Pikeru</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Two-Man Cell Battle</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fusion Weapon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ritual Weapon</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Absolute End</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spirit Barrier</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Ninjitsu Art of Decoy</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Enervating Mist</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Heavy Slump</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Greed</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mind Crush</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cemetary Bomb</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Hallowed Life Barrier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Necklace of Command</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Back to Square One</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Ballista of Rampart Smashing</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Lighten the Load</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Malice Dispersion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Divine Wrath</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Xing Zhen Hu</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fruits of Kozaky's Studies</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Mind Haxorz</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fuh-Rin-Ka-Zan</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Chain Burst</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Pikeru's Circle of Enchantment</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Spell Purification</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Astral Barrier</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Covering Fire</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Sacred Phoenix of Nephthys</name>
+				<rarity>4</rarity>
+			</card>
+			<card>
+				<name>A Feather of the Phoenix</name>
+				<rarity>3</rarity>
+			</card>
+			<card>
+				<name>Poison Fangs</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Centrifugal Field</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Fulfillment of the Contract</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Re-Fusion</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>The Big March of Animals</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Cross Counter</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Threatening Roar</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Phoenix Wing Wind Blast</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Elemental Mistress Doriado</name>
+				<rarity>1</rarity>
+			</card>
+			<card>
+				<name>Doriado's Blessing</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Kozaky's Self-Destruct Button</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Level Conversion Lab</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Rock Bombardment</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Token Feastevil</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Spell-Stopping Statute</name>
+				<rarity>0</rarity>
+			</card>
+			<card>
+				<name>Royal Surrender</name>
+				<rarity>0</rarity>
+			</card>
+		</cards>
+	</pack>
+</data>
