@@ -19,15 +19,15 @@ matrix:
       delimiters:
       # Ignore Python code blocks
       - open: '(?s)^(```python)$'
-        close: '(?s)^(```)$'
+        close: '^(```)$'
       # Ignore C code blocks
       - open: '(?s)^(```c)$'
-        close: '(?s)^(```)$'
+        close: '^(```)$'
       # Ignore LaTeX blocks
       - open: '\$\$'
         close: '\$\$'
       - open: '(?s)^(\\\[)$'
-        close: '(?s)^(\\\])$'
+        close: '^(\\\])$'
       # Ignore links to other posts
       - open: '\{%'
         close: '%\}$'
