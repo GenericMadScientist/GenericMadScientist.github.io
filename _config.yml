@@ -10,6 +10,9 @@ avatar: assets/img/avatar.png
 lang: en
 timezone: Europe/London
 
+goatcounter:
+  id: gmsblog
+
 github_username: GenericMadScientist
 github:
   username: GenericMadScientist

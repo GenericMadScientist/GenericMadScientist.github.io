@@ -39,6 +39,8 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
@@ -48,12 +50,13 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (5.6.1)
+    jekyll-theme-chirpy (6.5.5)
       jekyll (~> 4.3)
       jekyll-archives (~> 2.2)
+      jekyll-include-cache (~> 0.2)
       jekyll-paginate (~> 1.1)
       jekyll-redirect-from (~> 0.16)
-      jekyll-seo-tag (~> 2.7)
+      jekyll-seo-tag (~> 2.8)
       jekyll-sitemap (~> 1.4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
@@ -99,7 +102,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.4)
   jekyll-feed (~> 0.17.0)
-  jekyll-theme-chirpy (~> 5.6.1)
+  jekyll-theme-chirpy (~> 6.5.5)
   tzinfo (~> 2.0.4)
   tzinfo-data
 
