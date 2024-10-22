@@ -22,8 +22,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Build Jekyll pages
+        run: bundle exec jekyll build --verbose
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Test
+        run: ls && false
 
       - name: Build Jekyll pages
         uses: actions/jekyll-build-pages@v1
