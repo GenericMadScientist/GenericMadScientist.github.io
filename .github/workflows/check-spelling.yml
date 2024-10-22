@@ -18,7 +18,7 @@ jobs:
         uses: rojopolis/spellcheck-github-actions@0.35.0
         with:
           config_path: config/.spellcheck.yml
-      - uses: nosborn/github-action-markdown-cli@v3.0.1
+      - uses: nosborn/github-action-markdown-cli@v3.3.0
         with:
           files: .
           config_file: config/.markdownlint.yml
