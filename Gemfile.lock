@@ -50,7 +50,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (6.5.5)
+    jekyll-theme-chirpy (7.1.1)
       jekyll (~> 4.3)
       jekyll-archives (~> 2.2)
       jekyll-include-cache (~> 0.2)
@@ -102,7 +102,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.4)
   jekyll-feed (~> 0.17.0)
-  jekyll-theme-chirpy (~> 6.5.5)
+  jekyll-theme-chirpy (~> 7.1.1)
   tzinfo (~> 2.0.4)
   tzinfo-data
 

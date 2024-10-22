@@ -1,7 +1,5 @@
 ---
-title: About
-permalink: /about/
-icon: fas fa-info
+icon: fas fa-info-circle
 order: 3
 ---
 This blog is a place I plan to dump various write-ups and information on video

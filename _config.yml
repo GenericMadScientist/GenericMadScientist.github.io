@@ -10,8 +10,9 @@ avatar: assets/img/avatar.png
 lang: en
 timezone: Europe/London
 
-goatcounter:
-  id: gmsblog
+analytics:
+  goatcounter:
+    id: gmsblog
 
 github_username: GenericMadScientist
 github:
@@ -34,9 +35,6 @@ plugins:
 feed:
   path:
     assets/feed.xml
-
-comments:
-  active: false
 
 toc: true
 
