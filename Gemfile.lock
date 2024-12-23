@@ -13,7 +13,7 @@ GEM
     eventmachine (1.2.7-x64-mingw32)
     ffi (1.17.0)
     forwardable-extended (2.6.0)
-    google-protobuf (4.29.1)
+    google-protobuf (4.29.2)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -50,7 +50,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (7.2.3)
+    jekyll-theme-chirpy (7.2.4)
       jekyll (~> 4.3)
       jekyll-archives (~> 2.2)
       jekyll-include-cache (~> 0.2)
@@ -102,7 +102,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.4)
   jekyll-feed (~> 0.17.0)
-  jekyll-theme-chirpy (~> 7.2.3)
+  jekyll-theme-chirpy (~> 7.2.4)
   tzinfo (~> 2.0.4)
   tzinfo-data
 
